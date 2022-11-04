@@ -10,10 +10,3 @@ Contents
 
    decisiontree
    
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
