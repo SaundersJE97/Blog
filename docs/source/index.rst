@@ -8,4 +8,12 @@ Contents
 
 .. toctree::
 
-   decision_tree
+   decisiontree
+   
+Contents
+--------
+
+.. toctree::
+
+   usage
+   api
