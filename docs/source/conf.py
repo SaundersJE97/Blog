@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'SaundersJ Blog'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2022, Jack Saunders'
+author = 'Jack Saunders'
 
 release = '0.1'
 version = '0.1.0'
