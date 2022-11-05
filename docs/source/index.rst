@@ -10,4 +10,5 @@ Contents
 
    tree/decision_tree
    big_o_notation
+   resources_used
    
