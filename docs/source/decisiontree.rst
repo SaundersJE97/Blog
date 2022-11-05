@@ -1,4 +1,4 @@
-Decision Trees
+Trees
 ========
 
 Here we use
