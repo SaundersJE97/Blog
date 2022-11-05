@@ -9,4 +9,5 @@ Contents
 .. toctree::
 
    decisiontree
+   big_o_notation
    
