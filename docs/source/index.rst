@@ -8,6 +8,6 @@ Contents
 
 .. toctree::
 
-   decisiontree
+   tree/decision_tree
    big_o_notation
    
